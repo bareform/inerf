@@ -39,7 +39,7 @@ You can use the provided Jupyter Notebook `inference.ipynb` to estimate some pos
 
 [Inverting Neural Radiance Fields for Pose Estimation](https://arxiv.org/abs/2012.05877)
 
-Lin Yen-Chen<sup>1</sup><sup>2</sup>, Pete Florence<sup>1</sup>, Jonathan T. Barron<sup>1</sup>, Alberto Rodriguez<sup>2</sup>, Phillip Isola<sup>2</sup>, Tsung-Yi Lin<sup>1</sup>
+Lin Yen-Chen<sup>1,2</sup>, Pete Florence<sup>1</sup>, Jonathan T. Barron<sup>1</sup>, Alberto Rodriguez<sup>2</sup>, Phillip Isola<sup>2</sup>, Tsung-Yi Lin<sup>1</sup>
 
 <sup>1</sup>Google Research, <sup>2</sup> Massachusetts Institute of Technology
 
